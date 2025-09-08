@@ -1,11 +1,11 @@
-# Mediapipe Installation Files
+# Mediapipe Manual Installation
 
 ![Python](https://img.shields.io/badge/python-%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20-blue?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
-![MediaPipe](https://img.shields.io/badge/mediapipe-folders-orange)
+![MediaPipe](https://img.shields.io/badge/mediapipe-manual--installation-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A backup repository for **MediaPipe folders**.
+A backup repository for **MediaPipe Dependencies**.
 If you’re having trouble installing **MediaPipe** via `pip` in Python, you can simply download the required files from here.
 
 ## 📥 How to Use
